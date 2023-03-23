@@ -1,0 +1,17 @@
+{
+    "short_name": "MeTube",
+    "name": "MeTube",
+    "icons": [
+      {
+        "src": "https://i.ibb.co/s9Qys2j/logo.png",
+        "type": "image/png",
+        "sizes": "250x250",
+        "purpose" : "any maskable"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "prefer_related_applications" : true
+  }
